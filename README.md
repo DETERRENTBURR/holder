@@ -15,6 +15,7 @@ The clip was modeled in **Rhino** using simple geometric operations, such as cut
 The model was printed on a **Prusa 3D printer** using **PrusaSlicer**. The printing process took approximately **10 minutes**.
 
 <div align="center">
+  
 📽️ Printing Process Time-Lapse:
 
 <video src=https://github.com/user-attachments/assets/142f82c8-2c56-47e4-8db2-cfc0f46cb0eb  width="50%" height="50%"/>
@@ -28,9 +29,11 @@ The model was printed on a **Prusa 3D printer** using **PrusaSlicer**. The print
 The final product is a small, practical clip suitable for lightweight tasks. While functional, adding a spring would make it capable of holding thicker and heavier materials.
 
 <div align="center">
+  
 📷 Photo of the Finished Clip: 
   
 <img src=https://github.com/user-attachments/assets/3f55987e-c448-4e65-abfd-afd387513c23  width="50%" height="50%"/>
+<img src=https://github.com/user-attachments/assets/a101f100-473c-4105-a4a4-aca5545fbb8e width="50%" height="50%"/>
 
 </div>
 
