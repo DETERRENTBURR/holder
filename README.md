@@ -45,7 +45,7 @@ Adding a spring mechanism could greatly enhance the clip’s versatility and usa
 ## 🚀 How to Use
 
 1. Download the STL file and open it in your 3D slicer software.
-2. Configure printing settings (recommended layer height: 0.2 mm).
+2. Configure printing settings.
 3. Print the model using any 3D printer.
 4. *(Optional)* Add a spring to enhance its grip strength.
 
@@ -54,5 +54,4 @@ Adding a spring mechanism could greatly enhance the clip’s versatility and usa
 ## 🛠️ Future Improvements
 
 - Incorporate a compression mechanism (spring or elastic band).  
-- Adjust the dimensions for holding thicker materials.  
-- Experiment with alternative printing materials (PLA, PETG, ABS)
+
